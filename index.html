@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tic Tac Toe | AI Levels</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Tic Tac Toe</h1>
+
+<!-- MODE SELECTION -->
+<div class="modes">
+    <button id="pvp" class="active">Player vs Player</button>
+    <button id="ai">Player vs AI</button>
+</div>
+
+<!-- DIFFICULTY (HIDDEN BY DEFAULT) -->
+<div class="difficulty hidden" id="difficultyBox">
+    <label>AI Difficulty:</label>
+    <select id="level">
+        <option value="beginner">Beginner</option>
+        <option value="intermediate">Intermediate</option>
+        <option value="difficult">Difficult</option>
+    </select>
+</div>
+
+<p class="mode-text">Mode: Player vs Player</p>
+
+<!-- BOARD -->
+<div class="board">
+    <div class="cell"></div><div class="cell"></div><div class="cell"></div>
+    <div class="cell"></div><div class="cell"></div><div class="cell"></div>
+    <div class="cell"></div><div class="cell"></div><div class="cell"></div>
+</div>
+
+<button id="restart">Restart Game</button>
+
+<!-- WIN SOUND -->
+<audio id="winSound" src="win.mp3"></audio>
+
+<script src="script.js" defer></script>
+</body>
+</html>
+
+
+
+
+
