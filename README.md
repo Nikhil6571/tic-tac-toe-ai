@@ -21,7 +21,7 @@ The AI opponent supports multiple difficulty levels, providing an engaging and i
 
 ## ✨ Key Features
 - Player vs Player gameplay  
-- Player vs AI gameplay  
+- Players vs AI gameplay  
 - Multiple AI difficulty levels:
   - **Beginner** – Randomized moves  
   - **Intermediate** – Basic win and block strategy  
