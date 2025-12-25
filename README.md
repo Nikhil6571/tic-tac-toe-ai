@@ -48,7 +48,8 @@ tic-tac-toe-ai/
 ├── script.js
 └── win.mp3
 
+---
 
-👤 Author
+## 👤 Author
 Nikhil Rai
-GitHub: https://github.com/Nikhil6571
+- GitHub: https://github.com/Nikhil6571
