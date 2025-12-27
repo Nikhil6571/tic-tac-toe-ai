@@ -1,4 +1,4 @@
-# Tic Tac Toe Game
+# Tic Tac Toe AI Game
 
 A web-based **Tic Tac Toe application** developed using **HTML, CSS, and JavaScript**, featuring both **Player vs Player** and **Player vs Artificial Intelligence (AI)** modes.  
 The AI opponent supports multiple difficulty levels, providing an engaging and interactive gameplay experience.
